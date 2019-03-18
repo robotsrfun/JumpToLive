@@ -53,7 +53,7 @@ public class Main extends Canvas implements Runnable {
 		this.addKeyListener(key);
 		jf.setSize(new Dimension(1000, 600));
 		jf.setVisible(true);
-		jf.setTitle("Flappy Bird");
+		jf.setTitle("JumpToLive");
 		jf.setResizable(false);
 		jf.setLocationRelativeTo(null);
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
